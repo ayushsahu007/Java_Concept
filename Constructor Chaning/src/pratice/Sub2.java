@@ -1,4 +1,5 @@
 package pratice;
 
-public class Sub2 {
+public interface Sub2 extends Parent {
+     void style();
 }

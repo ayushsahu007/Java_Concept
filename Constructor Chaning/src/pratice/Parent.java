@@ -1,4 +1,5 @@
 package pratice;
 
-public class Parent {
+public interface Parent {
+    void type();
 }
