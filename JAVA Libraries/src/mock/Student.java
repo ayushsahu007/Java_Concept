@@ -1,3 +1,5 @@
+package mock;
+
 public class Student {
     int age;
 
