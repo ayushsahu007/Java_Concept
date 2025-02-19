@@ -18,4 +18,11 @@ public class Student {
          }
         return res;
     }
+
+    public static void main(String[] args) {
+        Student s1 = new Student(101,"Dinga");
+        Student s2 = new Student(102,"Moti");
+        System.out.println(s1.equals(s2));
+
+    }
 }
